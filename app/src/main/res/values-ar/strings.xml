@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task022</string>
+    <string name="register">التسجيل</string>
+    <string name="full_name">الاسم كامل</string>
+    <string name="password">كلمة المرور</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="terms_conditions">الشروط و الاحكام </string>
+    <string name="terms_conditions_title">بالضغط علي تسجيل فأنت موافق على </string>
+    <string name="code">رمز البلد</string>
+    <string name="terms_url">https://termsfeed.com/blog/sample-terms-and-conditions-template/</string>
+</resources>
